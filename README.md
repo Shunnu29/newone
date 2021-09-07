@@ -1,2 +1,0 @@
-# newone
-software developer
